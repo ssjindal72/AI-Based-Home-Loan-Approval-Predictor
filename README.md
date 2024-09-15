@@ -35,9 +35,11 @@ The dataset is split into two subsets:
 ## Results
 
 - Logistic Regression achieved an accuracy of 80.13%.
+  
   ![image](https://github.com/user-attachments/assets/59b8513e-d3fb-46d8-ab93-2bfb08493f32)
 
 - Random Forest Classifier achieved an accuracy of 76.01%.
+  
   ![image](https://github.com/user-attachments/assets/ad578de6-da03-4da5-a54d-3e89214f4985)
 
 - Logistic Regression performed slightly better than the Random Forest Classifier for this dataset, making it the more suitable model for this task.
